@@ -43,7 +43,7 @@ Last Updated on
 \end{textblock}
 
 \begin{textblock}{60}(7,0)
-\includegraphics[width=0.67\textwidth]{nu_logo.png}
+\includegraphics[width=0.63\textwidth]{nu_logo.png}
 \end{textblock}
 
 }
