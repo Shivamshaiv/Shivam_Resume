@@ -42,9 +42,7 @@ Last Updated on
 \today
 \end{textblock}
 
-\begin{textblock}{60}(7,0)
-\includegraphics[width=0.63\textwidth]{nu_logo.png}
-\end{textblock}
+
 
 }
 
